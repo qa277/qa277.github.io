@@ -5,11 +5,11 @@
       "beatColor2":"#00ff00",
       "textColor":"white",
       "songName":"IceHunt - Back To Time",
-      "beatSpeed":0.1,
+      "beatSpeed":0.5,
       "songLocation":"iceHuntBackToTime.mp3",
       "ringColor":"#00ff00",
       "beatMapLocation":"backtotime.json",
-      "beatSize":70
+      "beatSize":50
    },
    "beats":[
       1544,

@@ -1,8 +1,8 @@
 {
    "gameSettings":{
-      "bg":"#0844a3",
+      "bg":"#d433c9",
       "beatColor1":"rgb(0, 0, 0, 0)",
-      "beatColor2":"#d433c9",
+      "beatColor2":"#00ff00",
       "textColor":"white",
       "songName":"Normani - Motivation",
       "beatSpeed":0.25,

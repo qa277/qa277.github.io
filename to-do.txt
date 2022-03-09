@@ -1,0 +1,6 @@
+All edit logs:
+
+1. Fix bug with bot.                              Done :)
+2. Make room updates real time.                   Apparently already done :)
+3. Add a profanity filter for words.              Resolved :)
+4. Remove a-tags!                                 Partially finished :|
